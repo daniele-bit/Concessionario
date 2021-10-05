@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\ConcessionariaBelfiore.Shared.csproj": {}
+    "C:\\Users\\D'agostino Fabio\\Source\\Repos\\daniele-bit\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\ConcessionariaBelfiore.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\ConcessionariaBelfiore.Shared.csproj": {
+    "C:\\Users\\D'agostino Fabio\\Source\\Repos\\daniele-bit\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\ConcessionariaBelfiore.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\ConcessionariaBelfiore.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\daniele-bit\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\ConcessionariaBelfiore.Shared.csproj",
         "projectName": "ConcessionariaBelfiore.Shared",
-        "projectPath": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\ConcessionariaBelfiore.Shared.csproj",
-        "packagesPath": "C:\\Users\\Fastelli Daniele\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\daniele-bit\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\ConcessionariaBelfiore.Shared.csproj",
+        "packagesPath": "C:\\Users\\D'agostino Fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\daniele-bit\\Concessionario\\ConcessionariaBelfiore\\ConcessionariaBelfiore\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fastelli Daniele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\D'agostino Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,26 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

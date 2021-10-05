@@ -1,0 +1,15 @@
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\bin\Debug\net5.0\ConcessionariaBelfiore.Shared.deps.json
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\bin\Debug\net5.0\ConcessionariaBelfiore.Shared.runtimeconfig.json
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\bin\Debug\net5.0\ConcessionariaBelfiore.Shared.runtimeconfig.dev.json
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\bin\Debug\net5.0\ConcessionariaBelfiore.Shared.dll
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\bin\Debug\net5.0\ref\ConcessionariaBelfiore.Shared.dll
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\bin\Debug\net5.0\ConcessionariaBelfiore.Shared.pdb
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\obj\Debug\net5.0\ConcessionariaBelfiore.Shared.csproj.AssemblyReference.cache
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\obj\Debug\net5.0\ConcessionariaBelfiore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\obj\Debug\net5.0\ConcessionariaBelfiore.Shared.AssemblyInfoInputs.cache
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\obj\Debug\net5.0\ConcessionariaBelfiore.Shared.AssemblyInfo.cs
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\obj\Debug\net5.0\ConcessionariaBelfiore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\obj\Debug\net5.0\ConcessionariaBelfiore.Shared.dll
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\obj\Debug\net5.0\ref\ConcessionariaBelfiore.Shared.dll
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\obj\Debug\net5.0\ConcessionariaBelfiore.Shared.pdb
+C:\Users\D'agostino Fabio\Source\Repos\daniele-bit\Concessionario\ConcessionariaBelfiore\ConcessionariaBelfiore\Shared\obj\Debug\net5.0\ConcessionariaBelfiore.Shared.genruntimeconfig.cache
